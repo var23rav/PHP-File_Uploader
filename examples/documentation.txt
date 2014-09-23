@@ -1,0 +1,5 @@
+Documentation for example file of 'FileUploader' class
+make change to the action attribute in form field to each of the example uploader file to see those in action...
+
+
+	
